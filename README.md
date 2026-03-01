@@ -1,9 +1,3 @@
-Siap bro 🔥
-Gua bikinin README yang kelihatan profesional, clean, dan cocok buat portfolio kamu.
-
-Kamu tinggal copy–paste ke `README.md`.
-
----
 
 # 📄 README.md – Pharma POS
 
@@ -121,6 +115,7 @@ Mahasiswa S1 Teknik Informatika
 Backend Developer Enthusiast
 
 GitHub: [https://github.com/johanes-dotcom](https://github.com/johanes-dotcom)
+
 
 
 
