@@ -122,9 +122,5 @@ Backend Developer Enthusiast
 
 GitHub: [https://github.com/johanes-dotcom](https://github.com/johanes-dotcom)
 
----
 
 
-
-Kalau kamu mau, gua bisa upgrade lagi jadi versi yang lebih “startup ready” (lebih meyakinkan kalau dipakai buat jualan).
-```
